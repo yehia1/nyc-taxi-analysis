@@ -1,12 +1,12 @@
 # NYC Taxis Analysis
 
-[Introduction](#introduction)
-[Data Source](#data-is-extracted-from-nyc-taxi-website)
-[Problem description](#whats-case-about-problem-description)
-[Technologies](#technology-stack)
-[data Pipelines](#data-pipeline-flow)
-[data modeling](#2-dbt-transformations)
-[dashboard](#3-dashboarding)
+- [Introduction](#introduction)
+- [Data Source](#data-is-extracted-from-nyc-taxi-website)
+- [Problem description](#whats-case-about-problem-description)
+- [Technologies](#technology-stack)
+- [data Pipelines](#data-pipeline-flow)
+- [data modeling](#2-dbt-transformations)
+- [dashboard](#3-dashboarding)
 
 ## Introduction
 This project simulates the data engineering process starting from data source facing transcations like Data ingestion and combining all into a single data base Using ETL and orchestration tools like Mage and dbt connecting with GCP api to connect to google storage and google big query finally connects to the google locker studio to make the final dashboard
